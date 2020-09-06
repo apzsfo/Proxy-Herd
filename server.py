@@ -9,7 +9,7 @@ import logging
 
 #11800 11801 11802 11803 11804
 
-API_KEY = 'AIzaSyDEsPZlponHxiIGre2oInr0o1-oJ8NNnkU'
+API_KEY = ''
 
 link = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 log_file = ''
